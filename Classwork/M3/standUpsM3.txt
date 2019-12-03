@@ -1,0 +1,14 @@
+6/6/19
+
+Good morning here is my scrum status:
+1.) What have you done since last sync
+Read lessons 1 and 2
+2.) What will you have complete today
+practice more with testing
+3.) What questions or blocks do you have.
+-No blocks
+4.) Ask a question to your class
+What role does the service layer play in MVC?
+
+-------------------------------------------------------
+

@@ -1,0 +1,202 @@
+4/25/19
+Good morning here is my scrum status:
+1.) What have you done since last sync
+-Installed Java
+2.) What will you have complete today
+-Complete Exercises 1-4
+3.) What questions or blocks do you have.
+-No blocks
+4.) Ask a question to your class
+-what type of variable holds a whole number?
+
+-------------------------------------------------------
+
+4/26/19
+Good morning here is my scrum/stand-up status:
+1.) What have you done since last sync
+
+-Completed Exercises 1 - 2.5
+
+2.) What will you have completed today
+
+-Complete Exercises up to 6
+
+3.) What questions or blocks do you have.
+
+-No blocks
+
+4.) Ask a question to your class
+
+-what's the difference between a float and a double?
+
+-------------------------------------------------------
+
+4/29/19
+Good morning here is my scrum/stand-up status:
+1.) What have you done since last sync
+
+-Completed Exercises up to 5
+
+2.) What will you have completed today
+
+-Complete up to exercise 8
+
+3.) What questions or blocks do you have.
+
+-No blocks
+
+4.) Ask a question to your class
+
+-What's the difference between a while loop and a do while loop?
+
+-------------------------------------------------------
+
+4/30/19
+Good morning here is my scrum/stand-up status:
+1.) What have you done since last sync
+
+-Completed Exercises up to 6
+
+2.) What will you have completed today
+
+-Complete up to exercise 8
+
+3.) What questions or blocks do you have.
+
+-Is there a way to get the answers to the exercises?
+I'd like to be able to compare my answer to another way of answering
+and to check if it was correctly addressing the question/problem asked of us
+
+4.) Ask a question to your class
+
+-What's the point of a function/method?
+
+-------------------------------------------------------
+
+5/1/19
+Good morning here is my scrum/stand-up status:
+1.)  Completed Exercises up to 7
+
+2.) Complete up to exercise 9
+
+3.) random.nextInt(x) + y; -> Range: y ... ((x+y) - 1)?
+	is this a correct formula for random number range
+
+4.) What is the syntax for creating an array of 5 Strings?
+
+-------------------------------------------------------
+
+5/2/19
+Good morning here is my scrum/stand-up status:
+1.)  Completed Exercises up to 8
+
+2.) Will finish off exercises and start on factorizer
+
+3.) no blocks
+
+4.) When is a good time to set up breakpoints in debugging
+
+-------------------------------------------------------
+
+5/3/19
+Good morning here is my scrum/stand-up status:
+1.)  completed all exercises
+
+2.) flowchart for rock paper scissors
+
+3.) no blocks
+
+4.) What is the convention for naming methods
+
+-------------------------------------------------------
+
+5/6/19
+Good morning here is my scrum/stand-up status:
+1.)  completed flowchart for rps continue working on that
+
+2.) rock paper scissors
+
+3.) no blocks
+
+4.) Why should we draw flowcharts?
+
+-------------------------------------------------------
+5/7/19
+Good morning here is my scrum/stand-up status:
+1.)  completed rps, dog genetics, and healthy hearts
+
+2.) summative sums and pushing to GitHub
+
+3.) no blocks
+
+4.) What is scope?
+
+-------------------------------------------------------
+5/8
+Good morning 
+1.finished M1
+2.push to github
+3.can you check to make sure assignments are pushed correctly 
+4. How do you declare an array
+
+-------------------------------------------------------
+
+5/13/19
+Good morning here is my scrum/stand-up status:
+1.)  Looked back at classwork from in person meet
+
+2.) get started on M2
+
+3.) no blocks
+
+4.) What does DAO stand for?
+
+-------------------------------------------------------
+
+5/14/19
+Good morning here is my scrum/stand-up status:
+1.) Read more into M2
+
+2.) Continue reading lessons taking it all in
+
+3.) no blocks
+
+4.) What does DTO stand for?
+
+-------------------------------------------------------
+
+5/15/19
+Good morning here is my scrum/stand-up status:
+1. Finished simple calculator exercise and others from lesson 2
+2.continue on with lessons 
+3. Last I checked the pull requests from M1 were not approved, is it ok to leave them un-merged?
+4. Do you need to instantiate an object to call a static method?
+
+-------------------------------------------------------
+
+5/16/19
+Good morning here is my scrum/stand-up status:
+1. Read Lesson 3 worked on some excercises
+
+2. continue on with lessons 
+
+3. Can you check my Simple Calculator and see what can be improved?
+I made the methods static because it's best to make math operations static
+and I didn't make any properties in the class because I wouldn't be instantiating an object.
+But I'd like to know what I might have done incorrectly based on what the requirements were.
+
+4. What is single responsibility?
+
+-------------------------------------------------------
+
+5/21/19
+Good morning here is my scrum/stand-up status:
+1. Read Lesson 4 
+
+2. continue on with lessons 
+
+3. What's the difference from implementing multiple interfaces vs extending an interface and implementing it. Doesn't the resulting class implement all methods for all the interfaces regardless?
+
+4. What is an interface?
+
+-------------------------------------------------------

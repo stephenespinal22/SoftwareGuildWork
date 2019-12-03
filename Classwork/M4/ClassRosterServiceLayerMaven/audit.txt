@@ -1,0 +1,14 @@
+2019-06-21T13:34:48.354 : createStudent: ID: 002 |Name: Randall Clapper |Cohort: Java
+2019-06-21T13:51:13.063 : Going to call the method.
+2019-06-21T13:51:13.132 : createStudent: ID: 003 |Name: Bob Smith |Cohort: C#
+2019-06-21T13:51:13.137 : createStudent: ID: 003 |Name: Bob Smith |Cohort: C#
+2019-06-21T13:51:13.138 : Method execution completed.
+2019-06-21T13:51:13.138 : Method execution time: 84 milliseconds.
+2019-06-21T13:59:56.994 : Going to call the method.
+2019-06-21T13:59:57.065 : createStudent: ID: 003 |Name: Sally Smith |Cohort: Java
+2019-06-21T13:59:57.066 : ERROR: Could not create student.  Student Id 003 already exists
+2019-06-21T14:00:14.601 : Going to call the method.
+2019-06-21T14:00:14.601 : createStudent: ID: 004 |Name: Sally Bond |Cohort: N64
+2019-06-21T14:00:14.610 : createStudent: ID: 004 |Name: Sally Bond |Cohort: N64
+2019-06-21T14:00:14.610 : Method execution completed.
+2019-06-21T14:00:14.611 : Method execution time: 9 milliseconds.

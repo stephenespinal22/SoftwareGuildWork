@@ -1,0 +1,5 @@
+/game/begin -> POST -> STATUS: 201 { gameId: 1}
+/game/guess -> POST -> BODY: { "guess": "1234", "gameID":1} -> STATUS: 200 -> Result: { result: "e:0:p:0"}
+/game -> GET -> Status:200 -> Result -> [ { gameId: 0, isFinished: true, Answer: "1234"} , { gameId: 1, isFinished: true, Answer: "5678"} ] 
+/game/{gameId} -> GET -> Status:200 -> Result -> { gameId: 1, isFinished: false, Answer: ""}
+/game/{gameId}/rounds -> GET -> Status:200 -> Result -> [ {roundId: 1, guess:"1234", result:"e:0:p:0"},{roundId: 2, guess:"5678", result:"e:2:p:2"},{roundId: 3, guess:"5768", result:"e:1:p:3"},{roundId: 4, guess:"5687", result:"e:4:p:0"} ]

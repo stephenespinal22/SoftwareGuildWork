@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!-- we need to put an attribute for html to use thymeleaf -->
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>Test</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        
+        <!-- th is a thymeleaf attribute span blank element
+        we are adding these variables in from controller
+        html and controller are not separate
+        
+        
+        any data we want to put on the page needs to be added into the
+        model attributes the $ is passing in data
+        
+        thymeleaf will help us post user input directly 
+        to server instead of using javascript
+        -->
+        <p>Number: <span th:text="${number}"></span></p>
+        <p>Name: <span th:text="${firstName}"></span></p>
+        <form action="testForm" method="POST">
+            New Number: <input type="text" name="formNumber"/> <br/>
+            New Name: <input type="text" name="formFirstName"/><br/>
+            <button type="submit">Submit</button>
+        </form>
+    </body>
+</html>
+

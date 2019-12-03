@@ -1,0 +1,63 @@
+group work
+
+Database
+Service layer 
+dtos
+
+Tested 
+Done
+
+Sprint is a feature indeliverable.
+
+Front -html js
+Server - web api
+Data - SQL
+
+Break it up with features, what can the user do, they don't care they just want to click
+
+As a user I can: add a sighting, add a power, edit a power, 
+Adding a sighting is a feature, oh its in the done, let me check it out
+
+
+Keeping track of all powers
+Many to many
+Super powers
+
+Keeping track of sightings
+Batman at Starbucks
+
+Checklist on each card.
+
+We will make our own repo and push and pull on git as a group
+
+Each branch should be a feature
+
+Break it up by feature not by you do database you do web api (DO NOT horizontally MVC)
+
+Go into the pom file and update the version
+
+No dtos in individual project
+
+Submission from group is 
+Red
+Sql file DDL
+DTO (as many primary DTOs as controllers)
+DAO interface 
+Service layer interface
+(Service layer can access other service)
+
+
+Individual will be implemtentation of the group work.
+
+Thymeleaf for front end.
+
+ERD SQL BY NEXT WEEK.
+
+Git checkout master
+Git pull
+Git checkout remove hero
+Git merge master
+
+https://start.spring.io
+
+https://esri.github.io/esri-leaflet/examples/

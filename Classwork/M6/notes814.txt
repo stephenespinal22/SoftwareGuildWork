@@ -1,0 +1,86 @@
+
+		   	DML (DATA MANIPULATION LANGUAGE)
+			(deciding what goes into the tables and relationships)
+
+C      - insert table (col, col2,...)
+	values(..,..,..)
+
+R	- SELECT * from table	(all rows and columns) (or select order for display)
+	  where (col = val)	(comparison is one = ) 	
+	  //to combine them use AND , OR , BETWEEN _ AND _
+
+U	- UPDATE table
+	  set col = value //this will update everything
+	  WHERE ID = 1;			WE NEED TO PUT A WHERE HERE SO WE 					CAN SPECIFY WHERE WE ARE UPDATING 
+D	- DELETE FROM TABLE
+	  WHERE ID = 1;			CANNOT DELETE SINGLE COL USE 						UPDATE TO MAKE IT NULL
+
+
+
+CROSS JOIN, JOINS EVERY ROW AND COLUMN 
+
+		     	DDL (DATA DEFINITION LANGUAGE)
+			(defining what tables and relationships are)
+
+Create database _____
+
+Create table Contacts
+(
+	//columns
+	//define your columns first then put foreign keys at the end
+	name type constraint,
+
+	id int primary key auto increment,	(not null means it has to be something)
+	col1 int not null,
+	
+	genderId int foreign key,
+
+)
+
+Adding a column after the table is made
+
+Alter table _______ 
+Add column ________
+Drop column _______
+Add constraint _______ (use to change constraint)
+Drop constraint _______ (drop constraint and have no constraints on data added)
+
+
+Drop table  ______
+
+Drop database _____
+
+Drop database if exist ________ (start from scratch)
+
+Use _______ (use this database)
+
+
+			ENTITY RELATIONSHIP DIAGRAM
+
+CONNECT TABLES AND CONCEPTUALIZE RELATIONSHIPS
+
+-> (CHICKEN LEG) - MANY
+
+One to many, the gender has many contacts
+And contacts has one gender
+
+
+Contacts 				Genders
+_______________				_______________
+1,john,wick,1 (gender FK)--------------	1,male
+2,halle,berry,2	 ---------------------- 2,female
+3,randall,clapper,1(goes to 1 in gender) 			
+
+
+
+Primary table is which ever table is your main concern for your application
+
+Many to Many 
+
+Need a bridge table
+ContactsPhones
+
+Phones				Gender		 	ConactsPhones
+1,5555555, cell			contactId (pk,fk)	1,1
+2,1234567890, cell		phoneId (pk, fk)	1,3
+

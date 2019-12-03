@@ -1,0 +1,143 @@
+4/25/19
+Good morning here is my scrum status:
+1.) What have you done since last sync
+-Installed Java
+2.) What will you have complete today
+-Complete Exercises 1-4
+3.) What questions or blocks do you have.
+-No blocks
+4.) Ask a question to your class
+-what type of variable holds a whole number?
+
+-------------------------------------------------------
+
+4/26/19
+Good morning here is my scrum/stand-up status:
+1.) What have you done since last sync
+
+-Completed Exercises 1 - 2.5
+
+2.) What will you have completed today
+
+-Complete Exercises up to 6
+
+3.) What questions or blocks do you have.
+
+-No blocks
+
+4.) Ask a question to your class
+
+-what's the difference between a float and a double?
+
+-------------------------------------------------------
+
+4/29/19
+Good morning here is my scrum/stand-up status:
+1.) What have you done since last sync
+
+-Completed Exercises up to 5
+
+2.) What will you have completed today
+
+-Complete up to exercise 8
+
+3.) What questions or blocks do you have.
+
+-No blocks
+
+4.) Ask a question to your class
+
+-What's the difference between a while loop and a do while loop?
+
+-------------------------------------------------------
+
+4/30/19
+Good morning here is my scrum/stand-up status:
+1.) What have you done since last sync
+
+-Completed Exercises up to 6
+
+2.) What will you have completed today
+
+-Complete up to exercise 8
+
+3.) What questions or blocks do you have.
+
+-Is there a way to get the answers to the exercises?
+I'd like to be able to compare my answer to another way of answering
+and to check if it was correctly addressing the question/problem asked of us
+
+4.) Ask a question to your class
+
+-What's the point of a function/method?
+
+-------------------------------------------------------
+
+5/1/19
+Good morning here is my scrum/stand-up status:
+1.)  Completed Exercises up to 7
+
+2.) Complete up to exercise 9
+
+3.) random.nextInt(x) + y; -> Range: y ... ((x+y) - 1)?
+	is this a correct formula for random number range
+
+4.) What is the syntax for creating an array of 5 Strings?
+
+-------------------------------------------------------
+
+5/2/19
+Good morning here is my scrum/stand-up status:
+1.)  Completed Exercises up to 8
+
+2.) Will finish off exercises and start on factorizer
+
+3.) no blocks
+
+4.) When is a good time to set up breakpoints in debugging
+
+-------------------------------------------------------
+
+5/3/19
+Good morning here is my scrum/stand-up status:
+1.)  completed all exercises
+
+2.) flowchart for rock paper scissors
+
+3.) no blocks
+
+4.) What is the convention for naming methods
+
+-------------------------------------------------------
+
+5/6/19
+Good morning here is my scrum/stand-up status:
+1.)  completed flowchart for rps continue working on that
+
+2.) rock paper scissors
+
+3.) no blocks
+
+4.) Why should we draw flowcharts?
+
+-------------------------------------------------------
+5/7/19
+Good morning here is my scrum/stand-up status:
+1.)  completed rps, dog genetics, and healthy hearts
+
+2.) summative sums and pushing to GitHub
+
+3.) no blocks
+
+4.) What is scope?
+
+-------------------------------------------------------
+
+5/8
+Good morning 
+1.finished M1
+2.push to github
+3.can you check to make sure assignments are pushed correctly 
+4. How do you declare an array
+
+

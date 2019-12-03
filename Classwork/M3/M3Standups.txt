@@ -1,0 +1,25 @@
+good morning
+6/6
+
+1) did some exercises
+2) looking forward to sync session
+3) no blocks
+4) What are pass-through methods in the service layer interface?
+-------------------------------------------------------------------
+good morning
+6/7
+
+1) look over service layer example
+2) begin to rough draft ideas for assignment
+3) no blocks
+4) What is the purpose of the service layer?
+-------------------------------------------------------------------
+good morning 
+
+6/13
+
+1) Working on DAO
+2) continue working
+3) no blocks
+4) What is the purpose of the service layer?
+-------------------------------------------------------------------

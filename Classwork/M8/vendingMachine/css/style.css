@@ -1,0 +1,75 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.selection {
+    background: lightgray;
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
+    padding: 2px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 15px 5px 5px 5px;
+}
+
+.selection p:first-child {
+    text-align: left;
+}
+
+#totalIn {
+    border: 1px solid black;
+    height: 30px;
+    text-align: center;
+}
+
+#message {
+    margin: 10px;
+    border: 1px solid black;
+    height: 30px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.buttonRow {
+    padding: 5px;
+    text-align: center;
+}
+
+.btn-primary {
+    width: 130px;
+}
+
+.btn-success {
+    width: 200px;
+}
+
+#itemIdSelected {
+    float: right;
+    margin: 10px;
+    border: 1px solid black;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+}
+
+h4 {
+    padding-top: 10px;
+    padding-left: 20px;
+    float: left;
+}
+
+#changeMessage {
+    margin: 10px;
+    border: 1px solid black;
+    height: 30px;
+    text-align: center;
+}
